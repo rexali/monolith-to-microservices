@@ -2,7 +2,7 @@
   "name": "udagram-api",
   "version": "2.0.0",
   "description": "",
-  "main": "src/server.js",
+  "main": "C:/Users/a/cd0354-monolith-to-microservices-project/udagram-api/src/server.ts",
   "scripts": {
     "start": "node .",
     "tsc": "tsc",
